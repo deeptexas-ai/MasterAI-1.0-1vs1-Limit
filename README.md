@@ -10,7 +10,7 @@ MasterAI is an AI poker dedicated to suport n-play (single- or multi-agent) Texa
 MaterAI  the robot eventually won by an average of 36.38 big blinds per 100 hands, trouncing the top poker professionals
 
 ![](https://raw.githubusercontent.com/deeptexas-ai/MasterAI-1.0-1vs1-Limit/main/Proto/player1.jpg) 
-![](https://github.com/deeptexas-ai/MasterAI-1.0-1vs1-Limit/blob/main/Proto/player2.jpg) 
+![](https://raw.githubusercontent.com/deeptexas-ai/MasterAI-1.0-1vs1-Limit/main/Proto/player2.jpg) 
 ![](https://raw.githubusercontent.com/deeptexas-ai/MasterAI-1.0-1vs1-Limit/main/Proto/player3%20.jpg) 
 
 ## Technology
