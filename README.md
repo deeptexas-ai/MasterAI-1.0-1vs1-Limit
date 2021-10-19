@@ -11,11 +11,11 @@ MaterAI  the robot eventually won by an average of 36.38 big blinds per 100 hand
 
 ![](https://raw.githubusercontent.com/deeptexas-ai/MasterAI-1.0-1vs1-Limit/main/Proto/player1.jpg) 
 ![](https://github.com/deeptexas-ai/MasterAI-1.0-1vs1-Limit/blob/main/Proto/player2.jpg) 
-![](https://raw.githubusercontent.com/deeptexas-ai/MasterAI-1.0-1vs1-Limit/main/Proto/player3.jpg) 
+![](https://raw.githubusercontent.com/deeptexas-ai/MasterAI-1.0-1vs1-Limit/main/Proto/player3%20.jpg) 
 
 ## Technology
 
-MasterAI is developed by two components: offline component and online component:
+MasterAI is developed by two components: offline cohttps://github.com/deeptexas-ai/MasterAI-1.0-1vs1-Limit/blob/main/Proto/player3%20.jpgponent and online component:
 * An offline component solves random poker situations (public states along with probability vectors over private hands for both players) and uses them to train a neural network. After training, this neural network can accurately predict the value for each player of holding each possible hand at a given poker situation.
 
 * An online component uses the continuous re-solving algorithm to dynamically select an action for MasterAI to play at each public state during the game. This algorithm solves a depth-limited lookahead using the neural network to estimate values at terminal states.
