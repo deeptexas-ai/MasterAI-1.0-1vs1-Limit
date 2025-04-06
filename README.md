@@ -1,5 +1,5 @@
 # MasterAI-1.0-1vs1-Limit
-
+出售德州扑克AI核心算法和训练大模型，有意者Telegram :@xuzongbin001
 ## Introduction
 
 MasterAI is an AI poker dedicated to suport n-play (single- or multi-agent) Texas Hold'em imperfect-informatin games. It has been achieving exceptionally good results by using its propretary algorithm. In September 2020, it defeated 14 top human poker professionals. 
