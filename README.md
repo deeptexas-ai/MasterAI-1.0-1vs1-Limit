@@ -6,7 +6,7 @@
 [![Demo](https://img.shields.io/badge/Demo-Video-brightgreen?style=for-the-badge&logo=youtube)](https://youtube.com/masterai-demo)
 [![License](https://img.shields.io/github/license/deeptexas-ai/masterai-holdem-1v1?style=for-the-badge)](https://github.com/deeptexas-ai/masterai-holdem-1v1/blob/main/LICENSE)
 
-**一对一限注德州扑克AI / 1v1 Limit Texas Hold'em AI / 一對九限注德州撲克AI/德州AI**  
+**一对一限注德州扑克AI / 1v1 Limit Texas Hold'em AI / 一對九限注德州撲克AI/德州AI/德州CFR源码**  
 CFR策略求解 + Monte Carlo搜索 + 实时决策引擎，胜率78%+人类玩家 / CFR+Monte Carlo+real-time decisions, 78%+ winrate / CFR+蒙特卡洛+即時決策.
 **世界级德州扑克AI** — 基于非完美信息博弈论、强化学习和神经网络。  
 **2020年9月**，在首届扑克超级明星邀请赛中，以**每100手盈利36.38大盲注**的战绩，击败14位顶级人类扑克职业选手。
